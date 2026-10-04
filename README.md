@@ -81,7 +81,7 @@ gemini-chat/
 
 1. Clone the repository
 
-   git clone https://github.com/YOUR_USERNAME/ai-recipe-assistant-bot.git
+   git clone https://github.com/Nishi701/ai-recipe-assistant-bot.git
    cd ai-recipe-assistant-bot
 
 2. Backend

@@ -167,7 +167,3 @@ Planned:
 Recipes and nutrition values are AI-generated estimates meant for ideas and guidance. If you have
 severe allergies or medical dietary needs, always verify ingredients yourself.
 
-
-## License
-
-MIT (or choose your own)
